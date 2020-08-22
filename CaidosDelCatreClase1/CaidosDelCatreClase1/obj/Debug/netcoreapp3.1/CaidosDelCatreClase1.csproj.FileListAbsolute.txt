@@ -1,0 +1,16 @@
+C:\Users\Administrador\source\repos\CaidosDelCatreClase1\CaidosDelCatreClase1\bin\Debug\netcoreapp3.1\CaidosDelCatreClase1.exe
+C:\Users\Administrador\source\repos\CaidosDelCatreClase1\CaidosDelCatreClase1\bin\Debug\netcoreapp3.1\CaidosDelCatreClase1.deps.json
+C:\Users\Administrador\source\repos\CaidosDelCatreClase1\CaidosDelCatreClase1\bin\Debug\netcoreapp3.1\CaidosDelCatreClase1.runtimeconfig.json
+C:\Users\Administrador\source\repos\CaidosDelCatreClase1\CaidosDelCatreClase1\bin\Debug\netcoreapp3.1\CaidosDelCatreClase1.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\CaidosDelCatreClase1\CaidosDelCatreClase1\bin\Debug\netcoreapp3.1\CaidosDelCatreClase1.dll
+C:\Users\Administrador\source\repos\CaidosDelCatreClase1\CaidosDelCatreClase1\bin\Debug\netcoreapp3.1\CaidosDelCatreClase1.pdb
+C:\Users\Administrador\source\repos\CaidosDelCatreClase1\CaidosDelCatreClase1\obj\Debug\netcoreapp3.1\CaidosDelCatreClase1.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\CaidosDelCatreClase1\CaidosDelCatreClase1\obj\Debug\netcoreapp3.1\CaidosDelCatreClase1.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\CaidosDelCatreClase1\CaidosDelCatreClase1\obj\Debug\netcoreapp3.1\CaidosDelCatreClase1.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\CaidosDelCatreClase1\CaidosDelCatreClase1\obj\Debug\netcoreapp3.1\CaidosDelCatreClase1.dll
+C:\Users\Administrador\source\repos\CaidosDelCatreClase1\CaidosDelCatreClase1\obj\Debug\netcoreapp3.1\CaidosDelCatreClase1.pdb
+C:\Users\Administrador\source\repos\CaidosDelCatreClase1\CaidosDelCatreClase1\obj\Debug\netcoreapp3.1\CaidosDelCatreClase1.genruntimeconfig.cache
+C:\Users\Administrador\source\repos\CaidosDelCatreClase1\CaidosDelCatreClase1\bin\Debug\netcoreapp3.1\CaidosDelCatreTarea1.dll
+C:\Users\Administrador\source\repos\CaidosDelCatreClase1\CaidosDelCatreClase1\bin\Debug\netcoreapp3.1\CaidosDelCatreTarea1.pdb
+C:\Users\Administrador\source\repos\CaidosDelCatreClase1\CaidosDelCatreClase1\obj\Debug\netcoreapp3.1\CaidosDelCatreClase1.csproj.CopyComplete
+C:\Users\Administrador\source\repos\CaidosDelCatreClase1\CaidosDelCatreClase1\obj\Debug\netcoreapp3.1\CaidosDelCatreClase1.csprojAssemblyReference.cache

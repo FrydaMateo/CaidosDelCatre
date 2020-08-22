@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaidosDelCatreClase1", "CaidosDelCatreClase1\CaidosDelCatreClase1.csproj", "{A9CFF1C0-F6D2-46AB-B9CB-491A0F449B0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9CFF1C0-F6D2-46AB-B9CB-491A0F449B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9CFF1C0-F6D2-46AB-B9CB-491A0F449B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9CFF1C0-F6D2-46AB-B9CB-491A0F449B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9CFF1C0-F6D2-46AB-B9CB-491A0F449B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D1FE781-259D-4AA7-92E9-223AC01637D0}
+	EndGlobalSection
+EndGlobal

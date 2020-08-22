@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CaidosDelCatreClase1": {
+      "commandName": "Project",
+      "commandLineArgs": "\"3000\" \"10\" \"aleman\""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+C:\Users\Administrador\source\repos\CaidosDelCatreTarea1\CaidosDelCatreTarea1\bin\Debug\netstandard2.0\CaidosDelCatreTarea1.deps.json
+C:\Users\Administrador\source\repos\CaidosDelCatreTarea1\CaidosDelCatreTarea1\bin\Debug\netstandard2.0\CaidosDelCatreTarea1.dll
+C:\Users\Administrador\source\repos\CaidosDelCatreTarea1\CaidosDelCatreTarea1\bin\Debug\netstandard2.0\CaidosDelCatreTarea1.pdb
+C:\Users\Administrador\source\repos\CaidosDelCatreTarea1\CaidosDelCatreTarea1\obj\Debug\netstandard2.0\CaidosDelCatreTarea1.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\CaidosDelCatreTarea1\CaidosDelCatreTarea1\obj\Debug\netstandard2.0\CaidosDelCatreTarea1.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\CaidosDelCatreTarea1\CaidosDelCatreTarea1\obj\Debug\netstandard2.0\CaidosDelCatreTarea1.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\CaidosDelCatreTarea1\CaidosDelCatreTarea1\obj\Debug\netstandard2.0\CaidosDelCatreTarea1.dll
+C:\Users\Administrador\source\repos\CaidosDelCatreTarea1\CaidosDelCatreTarea1\obj\Debug\netstandard2.0\CaidosDelCatreTarea1.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrador\\source\\repos\\CaidosDelCatreClase1\\CaidosDelCatreClase1\\CaidosDelCatreClase1.csproj": {}
+    "E:\\Users\\Frodo\\Source\\Repos\\CaidosDelCatre\\CaidosDelCatreClase1\\CaidosDelCatreClase1\\CaidosDelCatreClase1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrador\\source\\repos\\CaidosDelCatreClase1\\CaidosDelCatreClase1\\CaidosDelCatreClase1.csproj": {
+    "E:\\Users\\Frodo\\Source\\Repos\\CaidosDelCatre\\CaidosDelCatreClase1\\CaidosDelCatreClase1\\CaidosDelCatreClase1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\source\\repos\\CaidosDelCatreClase1\\CaidosDelCatreClase1\\CaidosDelCatreClase1.csproj",
+        "projectUniqueName": "E:\\Users\\Frodo\\Source\\Repos\\CaidosDelCatre\\CaidosDelCatreClase1\\CaidosDelCatreClase1\\CaidosDelCatreClase1.csproj",
         "projectName": "CaidosDelCatreClase1",
-        "projectPath": "C:\\Users\\Administrador\\source\\repos\\CaidosDelCatreClase1\\CaidosDelCatreClase1\\CaidosDelCatreClase1.csproj",
+        "projectPath": "E:\\Users\\Frodo\\Source\\Repos\\CaidosDelCatre\\CaidosDelCatreClase1\\CaidosDelCatreClase1\\CaidosDelCatreClase1.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\source\\repos\\CaidosDelCatreClase1\\CaidosDelCatreClase1\\obj\\",
+        "outputPath": "E:\\Users\\Frodo\\Source\\Repos\\CaidosDelCatre\\CaidosDelCatreClase1\\CaidosDelCatreClase1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
